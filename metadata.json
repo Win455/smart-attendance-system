@@ -1,0 +1,6 @@
+{
+  "name": "Smart Student Attendance System",
+  "description": "Secure digital attendance management featuring real-time tracking, QR codes, GPS verification, role-based dashboards, and automated report generation.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
